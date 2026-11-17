@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"UTF8Decoder_ReadContinuation",
+  "%Name":"buffer_utf8_error",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"UTF8Decoder_ReadContinuation",
+  "name":"buffer_utf8_error",
   "parent":{
     "name":"UTF8Decoder",
     "path":"folders/UTF8Decoder.yy",

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"buffer_utf8_peek",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"buffer_utf8_peek",
+  "parent":{
+    "name":"UTF8Decoder",
+    "path":"folders/UTF8Decoder.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

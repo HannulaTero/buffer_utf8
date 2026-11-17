@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"UTF8Decoder_Lookups",
+  "%Name":"buffer_utf8_safe_peek",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"UTF8Decoder_Lookups",
+  "name":"buffer_utf8_safe_peek",
   "parent":{
     "name":"UTF8Decoder",
     "path":"folders/UTF8Decoder.yy",

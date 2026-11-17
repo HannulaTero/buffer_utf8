@@ -1,0 +1,8208 @@
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Quisque faucibus ex sapien vitae pellentesque sem placerat.
+In id cursus mi pretium tellus duis convallis.
+Tempus leo eu aenean sed diam urna tempor.
+Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+Iaculis massa nisl malesuada lacinia integer nunc posuere.
+Ut hendrerit semper vel class aptent taciti sociosqu. 
+Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
+Cyrillic / Slavic
+
+А Б В Г Д Е Ё Ж З И
+Georgian
+
+Ⴀ Ⴁ Ⴂ Ⴃ Ⴄ Ⴅ Ⴆ Ⴇ Ⴈ Ⴉ
+Armenian
+
+Ա Բ Գ Դ Ե Զ Է Ը Թ
+
+Bamum
+
+ꚠ ꚡ ꚢ 񨉝 ꚤ ꚥ ꚦ ꚧ ꚨ
+Cherokee
+
+Ꭰ Ꭱ Ꭲ Ꭳ Ꭴ Ꭵ Ꭶ Ꭷ Ꭸ Ꭹ
+Arabic
+
+ا ب ت ث ج ح خ د ذ ر
+Hebrew
+
+ב ג ד ה ו ז ח ט י כ ל
+Syriac
+
+ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ
+
+Thaana
+
+ނ ރ ބ ޅ ކ އ ވ މ ފ
+Mandaic
+
+ࡀ ࡁ ࡂ ࡃ ࡄ ࡅ ࡆ ࡇ ࡈ
+NKo
+
+ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ
+Mongolian
+
+ᠠ ᠡ ᠢ ᠦ ᠪ ᠬ ᠰ ᠱ
+
+Devanāgarī / Hindi
+
+क ख ग घ ङ च छ ज झ
+Bengali
+
+অ আ ই ঈ উ ঊ ঋ ঌ
+Gurmukhi
+
+ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ
+Gujarati
+
+અ આ ઇ ઈ ઉ ઊ ઋ
+Oriya
+
+ଅ ଆ ଇ ଈ ଉ ଊ ଋ
+Tamil
+
+அ ஆ இ ஈ உ ஊ
+Telugu
+
+అ ఆ ఇ ఈ ఉ ఊ ఋ
+Kannada
+
+ಅ ಆ ಇ ಈ ಉ ಊ ಋ
+Malayalam
+
+അ ആ ഇ ഈ ഉ
+Sinhala
+
+අ ආ ඇ ඉ ඊ උ ඌ
+
+Thai
+
+ก ข ฃ ค ฅ ฆ ง จ ฉ ช
+Lao
+
+ກ ຂ ຄ ງ ຈ ຊ ຍ ດ
+Tibetan
+
+ཀ ཁ ག གྷ ང ཅ ཆ ཇ
+Myanmar
+
+က ခ ဂ ဃ င င စ ဆ ဇ
+Ethiopic
+
+ሀ ሁ ሂ ሃ ሄ ህ ሆ ሇ ለ
+Tagalog
+
+ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ
+Hanunoo
+
+ᜠ ᜡ ᜢ ᜣ ᜤ ᜥ ᜦ ᜧ ᜨ
+Buhid
+
+ᝀ ᝁ ᝂ ᝃ ᝄ ᝅ ᝆ ᝇ
+Tagbanwa
+
+ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ
+Khmer
+
+ង ច ឆ ជ ឈ ញ ដ ឋ
+Cham
+
+ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ
+
+Char	Dec	Hex	Name	
+⺀	11904	2E80	CJK RADICAL REPEAT	
+⺁	11905	2E81	CJK RADICAL CLIFF	
+⺂	11906	2E82	CJK RADICAL SECOND ONE	
+⺃	11907	2E83	CJK RADICAL SECOND TWO	
+⺄	11908	2E84	CJK RADICAL SECOND THREE	
+⺅	11909	2E85	CJK RADICAL PERSON	
+⺆	11910	2E86	CJK RADICAL BOX	
+⺇	11911	2E87	CJK RADICAL TABLE	
+⺈	11912	2E88	CJK RADICAL KNIFE ONE	
+⺉	11913	2E89	CJK RADICAL KNIFE TWO	
+⺊	11914	2E8A	CJK RADICAL DIVINATION	
+⺋	11915	2E8B	CJK RADICAL SEAL	
+⺌	11916	2E8C	CJK RADICAL SMALL ONE	
+⺍	11917	2E8D	CJK RADICAL SMALL TWO	
+⺎	11918	2E8E	CJK RADICAL LAME ONE	
+⺏	11919	2E8F	CJK RADICAL LAME TWO	
+⺐	11920	2E90	CJK RADICAL LAME THREE	
+⺑	11921	2E91	CJK RADICAL LAME FOUR	
+⺒	11922	2E92	CJK RADICAL SNAKE	
+⺓	11923	2E93	CJK RADICAL THREAD	
+⺔	11924	2E94	CJK RADICAL SNOUT ONE	
+⺕	11925	2E95	CJK RADICAL SNOUT TWO	
+⺖	11926	2E96	CJK RADICAL HEART ONE	
+⺗	11927	2E97	CJK RADICAL HEART TWO	
+⺘	11928	2E98	CJK RADICAL HAND	
+⺙	11929	2E99	CJK RADICAL RAP	
+⺛	11931	2E9B	CJK RADICAL CHOKE	
+⺜	11932	2E9C	CJK RADICAL SUN	
+⺝	11933	2E9D	CJK RADICAL MOON	
+⺞	11934	2E9E	CJK RADICAL DEATH	
+⺟	11935	2E9F	CJK RADICAL MOTHER	
+⺠	11936	2EA0	CJK RADICAL CIVILIAN	
+⺡	11937	2EA1	CJK RADICAL WATER ONE	
+⺢	11938	2EA2	CJK RADICAL WATER TWO	
+⺣	11939	2EA3	CJK RADICAL FIRE	
+⺤	11940	2EA4	CJK RADICAL PAW ONE	
+⺥	11941	2EA5	CJK RADICAL PAW TWO	
+⺦	11942	2EA6	CJK RADICAL SIMPLIFIED HALF TREE TRUNK	
+⺧	11943	2EA7	CJK RADICAL COW	
+⺨	11944	2EA8	CJK RADICAL DOG	
+⺩	11945	2EA9	CJK RADICAL JADE	
+⺪	11946	2EAA	CJK RADICAL BOLT OF CLOTH	
+⺫	11947	2EAB	CJK RADICAL EYE	
+⺬	11948	2EAC	CJK RADICAL SPIRIT ONE	
+⺭	11949	2EAD	CJK RADICAL SPIRIT TWO	
+⺮	11950	2EAE	CJK RADICAL BAMBOO	
+⺯	11951	2EAF	CJK RADICAL SILK	
+⺰	11952	2EB0	CJK RADICAL C-SIMPLIFIED SILK	
+⺱	11953	2EB1	CJK RADICAL NET ONE	
+⺲	11954	2EB2	CJK RADICAL NET TWO	
+⺳	11955	2EB3	CJK RADICAL NET THREE	
+⺴	11956	2EB4	CJK RADICAL NET FOUR	
+⺵	11957	2EB5	CJK RADICAL MESH	
+⺶	11958	2EB6	CJK RADICAL SHEEP	
+⺷	11959	2EB7	CJK RADICAL RAM	
+⺸	11960	2EB8	CJK RADICAL EWE	
+⺹	11961	2EB9	CJK RADICAL OLD	
+⺺	11962	2EBA	CJK RADICAL BRUSH ONE	
+⺻	11963	2EBB	CJK RADICAL BRUSH TWO	
+⺼	11964	2EBC	CJK RADICAL MEAT	
+⺽	11965	2EBD	CJK RADICAL MORTAR	
+⺾	11966	2EBE	CJK RADICAL GRASS ONE	
+⺿	11967	2EBF	CJK RADICAL GRASS TWO	
+⻀	11968	2EC0	CJK RADICAL GRASS THREE	
+⻁	11969	2EC1	CJK RADICAL TIGER	
+⻂	11970	2EC2	CJK RADICAL CLOTHES	
+⻃	11971	2EC3	CJK RADICAL WEST ONE	
+⻄	11972	2EC4	CJK RADICAL WEST TWO	
+⻅	11973	2EC5	CJK RADICAL C-SIMPLIFIED SEE	
+⻆	11974	2EC6	CJK RADICAL SIMPLIFIED HORN	
+⻇	11975	2EC7	CJK RADICAL HORN	
+⻈	11976	2EC8	CJK RADICAL C-SIMPLIFIED SPEECH	
+⻉	11977	2EC9	CJK RADICAL C-SIMPLIFIED SHELL	
+⻊	11978	2ECA	CJK RADICAL FOOT	
+⻋	11979	2ECB	CJK RADICAL C-SIMPLIFIED CART	
+⻌	11980	2ECC	CJK RADICAL SIMPLIFIED WALK	
+⻍	11981	2ECD	CJK RADICAL WALK ONE	
+⻎	11982	2ECE	CJK RADICAL WALK TWO	
+⻏	11983	2ECF	CJK RADICAL CITY	
+⻐	11984	2ED0	CJK RADICAL C-SIMPLIFIED GOLD	
+⻑	11985	2ED1	CJK RADICAL LONG ONE	
+⻒	11986	2ED2	CJK RADICAL LONG TWO	
+⻓	11987	2ED3	CJK RADICAL C-SIMPLIFIED LONG	
+⻔	11988	2ED4	CJK RADICAL C-SIMPLIFIED GATE	
+⻕	11989	2ED5	CJK RADICAL MOUND ONE	
+⻖	11990	2ED6	CJK RADICAL MOUND TWO	
+⻗	11991	2ED7	CJK RADICAL RAIN	
+⻘	11992	2ED8	CJK RADICAL BLUE	
+⻙	11993	2ED9	CJK RADICAL C-SIMPLIFIED TANNED LEATHER	
+⻚	11994	2EDA	CJK RADICAL C-SIMPLIFIED LEAF	
+⻛	11995	2EDB	CJK RADICAL C-SIMPLIFIED WIND	
+⻜	11996	2EDC	CJK RADICAL C-SIMPLIFIED FLY	
+⻝	11997	2EDD	CJK RADICAL EAT ONE	
+⻞	11998	2EDE	CJK RADICAL EAT TWO	
+⻟	11999	2EDF	CJK RADICAL EAT THREE	
+⻠	12000	2EE0	CJK RADICAL C-SIMPLIFIED EAT	
+⻡	12001	2EE1	CJK RADICAL HEAD	
+⻢	12002	2EE2	CJK RADICAL C-SIMPLIFIED HORSE	
+⻣	12003	2EE3	CJK RADICAL BONE	
+⻤	12004	2EE4	CJK RADICAL GHOST	
+⻥	12005	2EE5	CJK RADICAL C-SIMPLIFIED FISH	
+⻦	12006	2EE6	CJK RADICAL C-SIMPLIFIED BIRD	
+⻧	12007	2EE7	CJK RADICAL C-SIMPLIFIED SALT	
+⻨	12008	2EE8	CJK RADICAL SIMPLIFIED WHEAT	
+⻩	12009	2EE9	CJK RADICAL SIMPLIFIED YELLOW	
+⻪	12010	2EEA	CJK RADICAL C-SIMPLIFIED FROG	
+⻫	12011	2EEB	CJK RADICAL J-SIMPLIFIED EVEN	
+⻬	12012	2EEC	CJK RADICAL C-SIMPLIFIED EVEN	
+⻭	12013	2EED	CJK RADICAL J-SIMPLIFIED TOOTH	
+⻮	12014	2EEE	CJK RADICAL C-SIMPLIFIED TOOTH	
+⻯	12015	2EEF	CJK RADICAL J-SIMPLIFIED DRAGON	
+⻰	12016	2EF0	CJK RADICAL C-SIMPLIFIED DRAGON	
+⻱	12017	2EF1	CJK RADICAL TURTLE	
+⻲	12018	2EF2	CJK RADICAL J-SIMPLIFIED TURTLE	
+⻳	12019	2EF3	CJK RADICAL C-SIMPLIFIED TURTLE
+
+Currency Symbols
+
+€ ₤ ₿ ₡ ₯ ₣ ₽
+Letterlike Symbols
+
+℃ ℉ Ω ⅂ ⅃ ⅄ ™
+Number Forms
+
+Ⅱ Ⅲ Ⅵ ⅛ ⅜ ⅝
+Enclosed Alphanumeric
+
+Ⓐ Ⓑ 🄰 🄱 🅐 🅑 ① ②
+Box Drawings
+
+┌ ┐ └ ┘ ├ ┤ ┬ ┴
+Block Elements
+
+▄ ▃ ▅ ▇ ░ ▒ ▓
+Geometric Shapes
+
+▣ ▧ ▲ △ ◐ ◒ ◧ ◪
+Misc Symbols
+
+☊ ⚖ ⛋ ⚜ ☘
+Dingbats
+
+✀ ✇ ✈ ✎ ✔ ✜ ✱
+Astrological Symbols
+
+☿ ♁ ♃ ♆ ☼ ☽ ☾
+Math Operators
+
+∑ ∃ √ ∏ ≠ ∞ ⨎ ∅
+Math Symbols
+
+⟁ ⟀ ⟆ ⟮ ⟯ ⟨ ⟩ ⦀ ⧻ ⦿ ⧖
+Math Alphanumeric
+
+𝚷 𝚫 𝚽 𝛀 𝓪 𝓫 𝓬 𝓭
+Misc Technical
+
+⍇ ⍉ ⍾ ⍽ ⌬ ⌇
+Colored Symbols
+
+⌚ ⏩ ⏪ ☔ ⚽ ⚾
+
+Arrows
+
+← ↑ → ↓ ⇐ ⇑ ⇒ ⇓
+Arrows A
+
+⟰ ⟱ ⟽ ⟾ ⟻ ⟼
+Arrows B
+
+⤀ ⤁ ⤺ ⤻ ⥀
+Arrows C
+
+🠈 🠉 🠊 🠋
+Symbols and Arrows
+
+⬮ ⬯ ⭅ ⭆
+Weather Symbols
+
+☀ ☁ ☂ ☃ ★ ☆ ☇ ☈
+Musical Symbols
+
+𝄞 𝄆 𝄇 ♩ ♪ ♫ ♬
+Domino & Dices
+
+🁭🁵🂄 ⚁ ⚂ ⚄
+Mahjong Tiles
+
+🀀 🀁 🀃 🀅
+Card Symbols
+
+♠ ♣ ♥ ♦ 🂡 🂣 🂨
+Chess Symbols
+
+♔ ♕ ♘ ♖
+Yin Yang Symbols
+
+☯ ☰ ☱ ☲ ☮ ☸ ☣
+Recycling Symbols
+
+♲ ♻ ♾ ☢
+Life & Religion
+
+⛨ ☮ ♰ ♀ ♂
+Places & Traffic
+
+⛱ ⛴ ⛟ ⛐ ⚠
+
+Phoenican
+
+𐤀 𐤁 𐤂 𐤃 𐤄 𐤅 𐤆
+Greek
+
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ
+Coptic
+
+Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ
+Old Italic
+
+𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇 𐌈
+Old Turkic
+
+𐰂 𐰃 𐰄 𐰅 𐰆 𐰇 𐰈 𐰉 𐰊 𐰋
+Lydian
+
+𐤠 𐤡 𐤢 𐤣 𐤤 𐤥 𐤦 𐤧
+Samaritan
+
+ࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋ
+Glagolitic
+
+Ⰰ Ⰱ Ⰲ Ⰳ Ⰴ Ⰵ Ⰶ Ⰷ Ⰸ
+Meroitic Hieroglyphs
+
+𐦁 𐦕 𐦈 𐦆 𐦉 𐦀
+
+Aegean Numbers
+
+𐄊 𐄎 𐄗 𐄞 𐄧 𐄳
+Gothic
+
+𐌱 𐌸 𐌺 𐌼 𐌴 𐌶
+Aboriginal
+
+ᐄ ᐅ ᐆ ᐇ ᐈ ᐉ ᐊ ᐋ ᐌ
+Ogham
+
+ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ
+Runic
+
+ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ
+Bamum
+
+𖠀 𖠁 𖠂 𖠃 𖠄 𖠅 𖠆
+Alchemical
+
+🜉 🜊 🜋 🜬 🜑 🜎
+Egyptian Hieroglyphs
+
+𓀀 𓀄 𓀘 𓀢 𓀬
+
+Smileys
+
+😀 😂 😊 😎 😜
+Hands
+
+✌ ✊ ☝ ✋ 👌
+People
+
+👮 🧕 👦 💏 🤴
+Office
+
+📈 💻 📌 📆 📒
+Places
+
+⛺ 🌋 🗽 🗿 🏢
+Transport
+
+🚈 🚗 🚢 🚌 🚀
+Animals
+
+🐴 🐕 🐘 🐻 🐞
+Food
+
+☕ 🌭 🍞 🍩 🍣
+Plants
+
+🌴 🌳 🌼 🍁 🥑
+
+Fruits
+
+🍇 🍊 🍏 🥝 🥥
+Sports
+
+⚽ 🏆 🤿 🏋 ⛳
+Earth & Sky
+
+🌐 🌍 🌖 🌟 🌞
+Weather
+
+⛅ ☔ 🌈 🌂 ⛄
+Clothing
+
+👚 👕 🎩 👜 👠
+Audio/Video
+
+🎥 🎵 🎹 🔊 📺
+Celebration
+
+🎁 🎃 🎈 🎓 🎂
+Entertainment
+
+🎨 🎪 🎭 🎡 🎢
+Symbols
+
+💡 💰 🔐 🔞 🔔
+', 10

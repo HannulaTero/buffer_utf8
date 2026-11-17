@@ -13,12 +13,12 @@
 * - does not validate bytes in the sequence.
 * - does not check whether it is going to exceed.
 * -> These are left out for speed (when you know string is valid).
-* -> If validation is required, use UTF8Decoder_NextSafe instead.
+* -> If validation is required, use buffer_utf8_safe_read instead.
 * 
 * @param {Id.Buffer} _buffer 
 * @returns {Real}
 */ 
-function UTF8Decoder_Next(_buffer)
+function buffer_utf8_read(_buffer)
 {
   gml_pragma("forceinline");
   
@@ -35,8 +35,8 @@ function UTF8Decoder_Next(_buffer)
     case 2: {
       var _byteB = buffer_read(_buffer, buffer_u8);
       return (
-        ((_byteA & 0x0001_1111) << 6) | 
-        ((_byteB & 0x0011_1111))
+        ((_byteA & 0b0001_1111) << 6) | 
+        ((_byteB & 0b0011_1111))
       );
     }
     
@@ -44,9 +44,9 @@ function UTF8Decoder_Next(_buffer)
       var _byteB = buffer_read(_buffer, buffer_u8);
       var _byteC = buffer_read(_buffer, buffer_u8);
       return (
-        ((_byteA & 0x0000_1111) << 12) | 
-        ((_byteB & 0x0011_1111) << 6)  |
-        ((_byteC & 0x0011_1111))
+        ((_byteA & 0b0000_1111) << 12) | 
+        ((_byteB & 0b0011_1111) << 6)  |
+        ((_byteC & 0b0011_1111))
       );
     }
     
@@ -55,10 +55,10 @@ function UTF8Decoder_Next(_buffer)
       var _byteC = buffer_read(_buffer, buffer_u8);
       var _byteD = buffer_read(_buffer, buffer_u8);
       return (
-        ((_byteA & 0x0000_0111) << 18) | 
-        ((_byteB & 0x0011_1111) << 12) |
-        ((_byteC & 0x0011_1111) << 6)  |
-        ((_byteD & 0x0011_1111))
+        ((_byteA & 0b0000_0111) << 18) | 
+        ((_byteB & 0b0011_1111) << 12) |
+        ((_byteC & 0b0011_1111) << 6)  |
+        ((_byteD & 0b0011_1111))
       );
     }
     

@@ -9,14 +9,14 @@
 * @param {Id.Buffer} _buffer
 * @returns {Real}
 */ 
-function UTF8Decoder_ReadContinuation(_buffer)
+function buffer_utf8_read_continuation_byte(_buffer)
 {
   gml_pragma("forceinline");
   
   var _byte = buffer_read(_buffer, buffer_u8);
   
   // Check the validity. 
-  if ((_byte & 0x1100_0000) != 0b1000_0000)
+  if ((_byte & 0b1100_0000) != 0b1000_0000)
   {
     UTF8DECODER_ERROR_ACTION(
       UTF8Decoder_ErrorType.INVALID_BYTE_LEAD,

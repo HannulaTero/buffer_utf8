@@ -3,7 +3,7 @@
 /**
 * UTF8 Character decoder, does validation.
 * 
-* This function behaves the same as UTF8Decoder_Next,
+* This function behaves the same as buffer_utf8_read,
 * but adds more validation steps to ensure safe behaviour.
 * - validates bytes in the sequence.
 * - checks whether it is going to exceed.
@@ -13,7 +13,7 @@
 * @param {Id.Buffer} _buffer 
 * @returns {Real}
 */ 
-function UTF8Decoder_NextSafe(_buffer)
+function buffer_utf8_safe_read(_buffer)
 {
   gml_pragma("forceinline");
   
@@ -41,32 +41,32 @@ function UTF8Decoder_NextSafe(_buffer)
     }
     
     case 2: {
-      var _byteB = UTF8Decoder_ReadContinuation(_buffer);
+      var _byteB = buffer_utf8_read_continuation_byte(_buffer);
       return (
-        ((_byteA & 0x0001_1111) << 6) | 
-        ((_byteB & 0x0011_1111))
+        ((_byteA & 0b0001_1111) << 6) | 
+        ((_byteB & 0b0011_1111))
       );
     }
     
     case 3: {
-      var _byteB = UTF8Decoder_ReadContinuation(_buffer);
-      var _byteC = UTF8Decoder_ReadContinuation(_buffer);
+      var _byteB = buffer_utf8_read_continuation_byte(_buffer);
+      var _byteC = buffer_utf8_read_continuation_byte(_buffer);
       return (
-        ((_byteA & 0x0000_1111) << 12) | 
-        ((_byteB & 0x0011_1111) << 6)  |
-        ((_byteC & 0x0011_1111))
+        ((_byteA & 0b0000_1111) << 12) | 
+        ((_byteB & 0b0011_1111) << 6)  |
+        ((_byteC & 0b0011_1111))
       );
     }
     
     case 4: {
-      var _byteB = UTF8Decoder_ReadContinuation(_buffer);
-      var _byteC = UTF8Decoder_ReadContinuation(_buffer);
-      var _byteD = UTF8Decoder_ReadContinuation(_buffer);
+      var _byteB = buffer_utf8_read_continuation_byte(_buffer);
+      var _byteC = buffer_utf8_read_continuation_byte(_buffer);
+      var _byteD = buffer_utf8_read_continuation_byte(_buffer);
       return (
-        ((_byteA & 0x0000_0111) << 18) | 
-        ((_byteB & 0x0011_1111) << 12) |
-        ((_byteC & 0x0011_1111) << 6)  |
-        ((_byteD & 0x0011_1111))
+        ((_byteA & 0b0000_0111) << 18) | 
+        ((_byteB & 0b0011_1111) << 12) |
+        ((_byteC & 0b0011_1111) << 6)  |
+        ((_byteD & 0b0011_1111))
       );
     }
     

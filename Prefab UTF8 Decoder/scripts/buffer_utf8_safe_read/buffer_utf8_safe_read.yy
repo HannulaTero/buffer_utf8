@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"UTF8Decoder_NextSafe",
+  "%Name":"buffer_utf8_safe_read",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"UTF8Decoder_NextSafe",
+  "name":"buffer_utf8_safe_read",
   "parent":{
     "name":"UTF8Decoder",
     "path":"folders/UTF8Decoder.yy",
