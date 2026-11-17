@@ -10,7 +10,9 @@ var _h = 24;
 var _validity = self.isValid ? "is valid" : "validitation failed";
 
 draw_text(_x, _y + _h * _i++, $"DECODER SPEED TEST.");
-draw_text(_x, _y + _h * _i++, $"String is {self.textLength} characters long.");
+draw_text(_x, _y + _h * _i++, $"---");
+draw_text(_x, _y + _h * _i++, $"Test-string is {self.textLength} characters long.");
+draw_text(_x, _y + _h * _i++, $"Buffer examples timing also includes writing text to buffer, and making codepoint to character");
 draw_text(_x, _y + _h * _i++, $"---");
 draw_text(_x, _y + _h * _i++, $"Press [Z] To read put text into buffer, and decode codepoints one-by-one.");
 draw_text(_x, _y + _h * _i++, $"Press [X] To read characters directly from string (string_char_at).");

@@ -64,10 +64,7 @@ function buffer_utf8_read(_buffer)
     
     // Otherwise raise a error.
     default: {
-      UTF8DECODER_ERROR_ACTION(
-        UTF8Decoder_ErrorType.INVALID_BYTE_LEAD,
-        $"[{_GMFUNCTION_}] Invalid lead-byte [{_byteA}]!"
-      );
+      throw($"[{_GMFUNCTION_}] Invalid lead-byte [{_byteA}]!");
       return _byteA;
     }
   }

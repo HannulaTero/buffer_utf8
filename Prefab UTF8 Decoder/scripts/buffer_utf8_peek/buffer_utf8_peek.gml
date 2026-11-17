@@ -9,7 +9,8 @@
 * 
 * This will return decoded UTF8 character as UTF8 codepoint.
 * 
-* @param {Id.Buffer} _buffer 
+* @param {Id.Buffer}  _buffer 
+* @param {Real}       _offset
 * @returns {Real}
 */ 
 function buffer_utf8_peek(_buffer, _offset)

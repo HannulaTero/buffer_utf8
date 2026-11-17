@@ -9,13 +9,14 @@ if (keyboard_check_pressed(ord("Z")) == true)
   {
     // Although buffer does have the contents already,
     // it is rewritten to include writing to timing.
-    //buffer_write(_buffer, buffer_string, self.text);
+    buffer_seek(_buffer, buffer_seek_start, 0);
+    buffer_write(_buffer, buffer_string, self.text);
     buffer_seek(_buffer, buffer_seek_start, 0);
     var _bytes = buffer_get_size(_buffer);
     while(buffer_tell(_buffer) < _bytes)
     {
       var _codepoint = buffer_utf8_read(_buffer);
-      // var _character = chr(_codepoint);
+      var _character = chr(_codepoint);
     }
   }
   var _timeEnd = get_timer();
