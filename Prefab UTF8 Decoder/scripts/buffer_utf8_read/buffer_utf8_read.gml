@@ -13,7 +13,6 @@
 * - does not validate bytes in the sequence.
 * - does not check whether it is going to exceed.
 * -> These are left out for speed (when you know string is valid).
-* -> If validation is required, use buffer_utf8_safe_read instead.
 * 
 * @param {Id.Buffer} _buffer 
 * @returns {Real}
