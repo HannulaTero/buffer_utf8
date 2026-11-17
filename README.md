@@ -26,3 +26,21 @@ Following functions are provided
   *  Like `buffer_write`, this function writes at given buffer-tell position, and advances it. 
 
 This is asset doesn't do validations on continuation bytes.
+
+### Example of use.
+```gml
+var _buffer = buffer_load("example.txt");
+  
+while(buffer_tell(_buffer) < buffer_get_size(_buffer))
+{
+  // Reads single codepoint at time.
+  var _codepoint = buffer_utf8_read(_buffer);
+  if (_codepoint == ord("😀"))
+  {
+    FoundSmiley();
+    break;
+  }
+}
+  
+buffer_delete(_buffer);
+```
