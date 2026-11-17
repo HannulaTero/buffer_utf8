@@ -1,0 +1,44 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Prefab UTF8 Decoder",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"UTF8Decoder","folderPath":"folders/UTF8Decoder.yy","name":"UTF8Decoder","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"UTF8Decoder x Examples","folderPath":"folders/UTF8Decoder x Examples.yy","name":"UTF8Decoder x Examples","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.1.0.27",
+  },
+  "name":"Prefab UTF8 Decoder",
+  "resources":[
+    {"id":{"name":"NOTE_UTF8Decoder_README","path":"notes/NOTE_UTF8Decoder_README/NOTE_UTF8Decoder_README.yy",},},
+    {"id":{"name":"OBJ_UTF8Decoder_Example","path":"objects/OBJ_UTF8Decoder_Example/OBJ_UTF8Decoder_Example.yy",},},
+    {"id":{"name":"RM_UTF8Decoder_Example","path":"rooms/RM_UTF8Decoder_Example/RM_UTF8Decoder_Example.yy",},},
+    {"id":{"name":"UTF8Decoder_Error","path":"scripts/UTF8Decoder_Error/UTF8Decoder_Error.yy",},},
+    {"id":{"name":"UTF8Decoder_EXPORT","path":"scripts/UTF8Decoder_EXPORT/UTF8Decoder_EXPORT.yy",},},
+    {"id":{"name":"UTF8Decoder_Lookups","path":"scripts/UTF8Decoder_Lookups/UTF8Decoder_Lookups.yy",},},
+    {"id":{"name":"UTF8Decoder_Next","path":"scripts/UTF8Decoder_Next/UTF8Decoder_Next.yy",},},
+    {"id":{"name":"UTF8Decoder_NextSafe","path":"scripts/UTF8Decoder_NextSafe/UTF8Decoder_NextSafe.yy",},},
+    {"id":{"name":"UTF8Decoder_ReadContinuation","path":"scripts/UTF8Decoder_ReadContinuation/UTF8Decoder_ReadContinuation.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"RM_UTF8Decoder_Example","path":"rooms/RM_UTF8Decoder_Example/RM_UTF8Decoder_Example.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

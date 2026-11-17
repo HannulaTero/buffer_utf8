@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"UTF8Decoder_NextSafe",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"UTF8Decoder_NextSafe",
+  "parent":{
+    "name":"UTF8Decoder",
+    "path":"folders/UTF8Decoder.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
