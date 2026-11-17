@@ -1,5 +1,5 @@
-# UTF8 DECODER
-## For decoding UTF8 encoded string into UTF8 codepoints.
+# buffer_utf8
+### For decoding UTF8 encoded string into UTF8 codepoints.
 
 This small library allows you to quickly read UTF8 codepoints from a buffer.
 It can be useful for iterating through large strings (for scanning etc. purposes).
@@ -17,13 +17,12 @@ Therefore it doesn't need to do "walk again" like `string_char_at`.
 
 Following functions are provided
 * `buffer_utf8_peek`
- *  Like `buffer_peek`, this function reads codepoint at given offset-position. Doesn't advance buffer-tell position. Returns UTF8 codepoint.
+  *  Like `buffer_peek`, this function reads codepoint at given offset-position. Doesn't advance buffer-tell position. Returns UTF8 codepoint.
 * `buffer_utf8_poke`
- * Like `buffer_poke`, this function writes codepoint at given offset-position. Doesn't advance buffer-tell position.
+  * Like `buffer_poke`, this function writes codepoint at given offset-position. Doesn't advance buffer-tell position.
 * `buffer_utf8_read`
- *  Like `buffer_read`, this function reads at given buffer-tell position, and advances it. Returns UTF8 codepoint.
+  *  Like `buffer_read`, this function reads at given buffer-tell position, and advances it. Returns UTF8 codepoint.
 * `buffer_utf8_write`
- *  Like `buffer_write`, this function writes at given buffer-tell position, and advances it. 
+  *  Like `buffer_write`, this function writes at given buffer-tell position, and advances it. 
 
-
-
+This is asset doesn't do validations on continuation bytes.
