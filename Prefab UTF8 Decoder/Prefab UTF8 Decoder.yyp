@@ -10,8 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"UTF8Decoder","folderPath":"folders/UTF8Decoder.yy","name":"UTF8Decoder","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"UTF8Decoder x Examples","folderPath":"folders/UTF8Decoder x Examples.yy","name":"UTF8Decoder x Examples","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Examples","folderPath":"folders/Examples.yy","name":"Examples","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[

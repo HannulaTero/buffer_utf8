@@ -17,8 +17,8 @@
   ],
   "name":"RM_UTF8Decoder_Example",
   "parent":{
-    "name":"UTF8Decoder x Examples",
-    "path":"folders/UTF8Decoder x Examples.yy",
+    "name":"Examples",
+    "path":"folders/Examples.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

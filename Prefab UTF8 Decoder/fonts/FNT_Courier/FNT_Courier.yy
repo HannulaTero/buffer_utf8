@@ -119,8 +119,8 @@
   "maintainGms1Font":false,
   "name":"FNT_Courier",
   "parent":{
-    "name":"UTF8Decoder x Examples",
-    "path":"folders/UTF8Decoder x Examples.yy",
+    "name":"Examples",
+    "path":"folders/Examples.yy",
   },
   "pointRounding":0,
   "ranges":[

@@ -8,8 +8,8 @@
   "name":"OBJ_UTF8Decoder_ExampleManager",
   "overriddenProperties":[],
   "parent":{
-    "name":"UTF8Decoder x Examples",
-    "path":"folders/UTF8Decoder x Examples.yy",
+    "name":"Examples",
+    "path":"folders/Examples.yy",
   },
   "parentObjectId":null,
   "persistent":false,
