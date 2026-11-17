@@ -44,3 +44,7 @@ while(buffer_tell(_buffer) < buffer_get_size(_buffer))
   
 buffer_delete(_buffer);
 ```
+
+### [This was made for GM Kitchen's Cookbook 7 ​​tool jam.​](https://www.gamemakerkitchen.com/cookbooks/cookbook-7/)
+
+​You may also install this prefab with GameMaker's package managerby adding [GM Kitchen's as registry and install from there.](https://github.com/tabularelf/Libraries-and-the-state-of-prefabs/blob/release/adding-gmk-registry.md)
