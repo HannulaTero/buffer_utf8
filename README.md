@@ -1,6 +1,8 @@
 # buffer_utf8
 ### [GameMaker] For decoding UTF8 encoded string into UTF8 codepoints.
 
+[Itchio link](https://terohannula.itch.io/buffer-utf8)
+
 This small library allows you to quickly read UTF8 codepoints from a buffer.
 It can be useful for iterating through large strings (for scanning etc. purposes).
 
